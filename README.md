@@ -17,4 +17,5 @@ taktiksel bir silahtır
   Oyun, oyuncuyu sürekli bir ödül döngüsü içerisinde tutar. Deneyim puanı hedefine ulaşıldığında
 oyun duraklatılır ve karşımıza "Seviye Atlama" ekranı çıkar. 
 
+<img width="807" height="621" alt="image" src="https://github.com/user-attachments/assets/b0a01dad-b472-4a97-af46-974d6f992057" />
 
