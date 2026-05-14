@@ -32,6 +32,6 @@ oyun duraklatılır ve karşımıza "Seviye Atlama" ekranı çıkar.
 ASSETLERİN KAYNAĞI
 https://kenney-assets.itch.io/tiny-dungeon
 
-SEÇTİĞİMİZ OYUN
+SEÇTİĞİMİZ OYUN (meltdown-barrage)
 https://www.google.com/url?q=https://pixelbrain.itch.io/meltdown-barrage&sa=D&source=editors&ust=1777977987937017&usg=AOvVaw1IbSCDGEZIDzVq7QuJ12G3
 
