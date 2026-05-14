@@ -29,3 +29,7 @@ oyun duraklatılır ve karşımıza "Seviye Atlama" ekranı çıkar.
 <img width="805" height="632" alt="image" src="https://github.com/user-attachments/assets/75d4516a-d501-4c57-a909-44046f5063af" />
 
 
+ASSETLERİN KAYNAĞI
+https://kenney-assets.itch.io/tiny-dungeon
+
+
