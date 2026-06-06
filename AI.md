@@ -14,7 +14,7 @@ Dosyaları Hazırla: Tüm HTML, CSS, JavaScript ve medya (resim, ses) dosyaları
 
 
 
-2-Proje klasörü içindeki .zip uzantılı arşiv dosyalarını GitHub'a yüklemeden önce klasöre çıkarmam gerekiyor mu? GitHub Pages .zip dosyalarının içini okuyabilir mi?
+2-Proje klasörü içindeki .zip uzantılı arşiv dosyalarını  GitHub'a yüklemeden önce klasöre çıkarmam gerekiyor mu? GitHub Pages .zip dosyalarının içini okuyabilir mi?
 
 Evet, arşiv dosyalarını GitHub'a yüklemeden önce kesinlikle klasöre çıkarmalısın.
 
