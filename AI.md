@@ -7,7 +7,7 @@ Bu projede yapay zekadan aldıgımız yardımların sırasız listesi
 Dosyaları Hazırla: Tüm HTML, CSS, JavaScript ve medya (resim, ses) dosyalarını tek bir klasörde topla. Oyunun açılış dosyasının adının kesinlikle index.html olduğundan emin ol.
     GitHub'a Yükle: GitHub hesabında yeni bir repository (depo) oluştur. Hazırladığın oyun klasöründeki tüm dosyaları bu deponun içine yükle.
     Ayarlara Gir: Dosyalar yüklendikten sonra, deponun üst menüsünde yer alan Settings (Ayarlar) sekmesine tıkla.
-    Pages'i Aktifleştir: Sol taraftaki menüden Pages bölümüne gir. "Build and deployment" altındaki Branch menüsünden main (veya master) dalını seçip Save (Kaydet) butonuna bas.
+    Pages'i Aktifleştir: Sol taraftaki menüden Pages bölümüne gir. "Build and deployment" altındaki Branch menüsünden main (veya master) dalını seçip Save (Kaydet) butonuna tıkla.
     İşlemi kaydettikten birkaç dakika sonra sayfanın üst kısmında [https://kullaniciadin.github.io/reponadi](https://kullaniciadin.github.io/reponadi) formatında bir link belirecek. Oyunun bu link üzerinden internette oynanabilir hale gelmiş olacaktır.
     (Not: Medya dosyalarının düzgün çalışması için kodlarında kullandığın dosya yollarının mutlak değil, göreceli -örneğin assets/ses.mp3- olmasına ve büyük/küçük harf uyumuna dikkat etmelisin.)
 
