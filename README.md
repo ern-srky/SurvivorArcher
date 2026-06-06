@@ -20,6 +20,8 @@ geri iten alan etkili bir mekaniktir.
   
   Bomba: Sağ tık ile fırlatılan, belirli bir gecikme sonrası patlayarak ederek büyük grupları temizleyen
 taktiksel bir silahtır
+  Bomba: Sağ tık ile fırlatılan, belirli bir gecikme sonrası infilak ederek büyük grupları temizleyen
+taktiksel bir silahtır.
   
   Oyun, oyuncuyu sürekli bir ödül döngüsü içerisinde tutar. Deneyim puanı hedefine ulaşıldığında
 oyun duraklatılır ve karşımıza "Seviye Atlama" ekranı çıkar. 
